@@ -1,7 +1,7 @@
 name: FFA
 main: FFA\FFA
 version: 4.3.0
-api: [3.0.0-ALHA12]
+api: [3.0.0-ALPHA12]
 author: HummelSvem
 
 commands:
