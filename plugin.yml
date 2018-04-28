@@ -1,0 +1,9 @@
+name: FFA
+main: FFA\FFA
+version: 4.3.0
+api: [3.0.0-ALHA12]
+author: HummelSvem
+
+commands:
+ ffa:
+  description: "FFA Haupt-Command"
