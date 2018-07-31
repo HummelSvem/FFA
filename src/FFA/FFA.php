@@ -20,7 +20,6 @@ use pocketmine\event\player\PlayerDropItemEvent;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\block\BlockBreakEvent;
 use pocketmine\event\block\BlockPlaceEvent;
-use pocketmine\FFA\TextFormat;
 use FFA\FFATask;
 
 class FFA extends PluginBase implements Listener {
